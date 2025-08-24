@@ -1,11 +1,11 @@
 {
-  "Author": "Huggingway",
-  "Name": "Loporrit Sync",
-  "InternalName": "LoporritSync",
+  "Author": "Shion",
+  "Name": "Daybreak-Sync",
+  "InternalName": "DaybreakSync",
   "AssemblyVersion": "1.0.5.0",
   "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/loporrit/MareClient/",
+  "RepoUrl": "https://github.com/shionOhri/Daybreak-Sync/",
   "Tags": [
     "customization"
   ],
