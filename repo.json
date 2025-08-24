@@ -3,8 +3,8 @@
         "Author": "Shion",
         "Name": "Daybreak Sync",
         "InternalName": "Daybreak-Sync",
-        "AssemblyVersion": "1.0.5.2",
-        "TestingAssemblyVersion": "1.0.5.2",
+        "AssemblyVersion": "1.0.5.0",
+        "TestingAssemblyVersion": "1.0.5.0",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/shionOhri/Daybreak-Sync",
@@ -25,5 +25,6 @@
     }
 
 ]
+
 
 
