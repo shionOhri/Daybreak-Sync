@@ -19,8 +19,9 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "CanUnloadAsync": true,
-        "DownloadLinkInstall": "https://github.com/shionOhri/Daybreak-Sync/blob/bc17f0d39f06b52e904a07a6604e00c0d6208332/Daybreak-Sync-v1.0.5.0.zip",
-        "DownloadLinkTesting": "https://github.com/shionOhri/Daybreak-Sync/blob/bc17f0d39f06b52e904a07a6604e00c0d6208332/Daybreak-Sync-v1.0.5.0.zip",
-        "DownloadLinkUpdate": "https://github.com/shionOhri/Daybreak-Sync/blob/bc17f0d39f06b52e904a07a6604e00c0d6208332/Daybreak-Sync-v1.0.5.0.zip"
+        "DownloadLinkInstall": "https://github.com/shionOhri/Daybreak-Sync/blob/main/Daybreak-Sync-v1.0.5.0.zip",
+        "DownloadLinkTesting": https://github.com/shionOhri/Daybreak-Sync/blob/main/Daybreak-Sync-v1.0.5.0.zip",
+        "DownloadLinkUpdate": "https://github.com/shionOhri/Daybreak-Sync/blob/main/Daybreak-Sync-v1.0.5.0.zip"
     }
+
 ]
